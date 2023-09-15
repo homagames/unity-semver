@@ -1,0 +1,17 @@
+{
+  "name": "com.homagames.jeffcampbellmakesgames.semver",
+  "author": {
+    "name": "Jeff Campbell",
+    "url": "https://github.com/jeffcampbellmakesgames/unity-semver"
+  },
+  "displayName": "Semantic Versioning",
+  "version": "1.0.4",
+  "unity": "2018.1",
+  "description": "This package provides adds a SemVer 2.0.0 implementation for Unity. \n\nTo find out more, visit https://github.com/jeffcampbellmakesgames/unity-semver.",
+  "keywords": [
+    "version",
+    "versioning",
+    "semver"
+  ],
+  "category": "Tools"
+}
